@@ -1,0 +1,178 @@
+#trivago {
+  /*border:none;*/
+}
+
+#nav_bar {
+  float:right;
+  border-bottom:0px;
+}
+
+#main-sec {
+}
+
+#container {
+  position:relative;
+  top:100px;
+}
+
+#logo {
+  position:relative;
+  top:30px;
+  left:200px;
+  /*border:0 0 0 1px;*/
+  /*border:0px;*/
+  /*border-style:dashed;*/
+  /*border-bottom:1p;*/
+  /*border-right:1px;*/
+}
+
+.col.with-border {
+  border:1px solid rgba(125,122,121,0.17);
+  border-top:0;
+  border-bottom:0;
+  border-left:0;
+}
+
+#search {
+  position:relative;
+  left:40px;
+}
+
+#panel {
+  position:relative;
+  top:10px;
+  left:150px;
+}
+
+#button {
+  left:50px;
+  position:relative;
+  top:10px;
+}
+
+#dropdown {
+  position:relative;
+  padding-right:500px;
+  left:190px;
+  top:-20px;
+  /*float:left;*/
+  /*align-items:start;*/
+  border:1px solid rgba(0,0,0,0.46);
+}
+
+#dropdown1 {
+  position:relative;
+  padding-right:50px;
+  top:top: -20px;
+  top:-20px;
+  right:12px;
+  border:1px solid rgba(0,0,0,0.45);
+}
+
+#dropdown2 {
+  position:relative;
+  top:-20px;
+  right:130px;
+  padding-right:50px;
+  border:1px solid rgba(0,0,0,0.45);
+}
+
+#text {
+  position:relative;
+  top:100px;
+  left:50px;
+  font-weight:800;
+}
+
+#cities {
+  position:relative;
+  top:100px;
+}
+
+#hotels {
+  position:relative;
+  top:40px;
+}
+
+.para-weight {
+  font-weight:800;
+}
+
+#cities {
+  border:0;
+  position:relative;
+  font-weight:800;
+  /*bottom:0px;*/
+  top:0px;
+}
+
+#destinations {
+  /*border:0 10px 0 0;*/
+  border-top:0;
+  border-right:0;
+  border-bottom:0;
+  border-left:1px;
+  border-style:solid;
+  border-radius:0;
+  position:relative;
+  right:450px;
+  font-weight:800;
+}
+
+#building1 {
+}
+
+#pager {
+  position:relative;
+  top:300px;
+  left:400px;
+}
+
+#rooow {
+  position:relative;
+  top:300px;
+  margin:0;
+  border:0;
+  float:left;
+  left:500px;
+}
+
+#description {
+  position:relative;
+  top:400px;
+}
+
+#trivago-desc {
+  border:0;
+}
+
+#footer-side {
+  position:relative;
+  top:30px;
+}
+
+.text-center {
+  position:relative;
+  right:299px;
+}
+
+.form-inline {
+}
+
+#subform {
+  position:relative;
+  left:200px;
+  top:-70px;
+}
+
+#move-icon {
+  position:relative;
+  top:-20px;
+  right:400px;
+}
+
+#move-footer {
+  position:relative;
+  top:-270px;
+}
+
